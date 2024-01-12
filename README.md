@@ -18,7 +18,7 @@ the following resources are a great place to start:
 
 ## Folder structure
 
-We support a collection of templates, organized in this way:
+> **We support a collection of templates, organized in this way:**
 
 - The root folder contains templates in common use, to help people get started
   with popular programming languages and technologies. These define a meaningful
@@ -149,7 +149,3 @@ by automatically forking the project and prompting to send a pull request too.
 [fork]: https://help.github.com/articles/fork-a-repo/
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
-
-## License
-
-[CC0-1.0](./LICENSE).
