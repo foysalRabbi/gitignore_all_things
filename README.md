@@ -36,8 +36,8 @@ the following resources are a great place to start:
 
 ## What makes a good template?
 
-A template should contain a set of rules to help Git repositories work with a
-specific programming language, framework, tool or environment.
+> **A template should contain a set of rules to help Git repositories work with a
+specific programming language, framework, tool or environment.**
 
 If it's not possible to curate a small set of useful rules for this situation,
 then the template is not a good fit for this collection.
@@ -61,8 +61,8 @@ include your language, tool, or project, it’s not because it’s not awesome.
 
 ## Contributing guidelines
 
-We’d love for you to help us improve this project. To help us keep this collection
-high quality, we request that contributions adhere to the following guidelines.
+> **We’d love for you to help us improve this project. To help us keep this collection
+high quality, we request that contributions adhere to the following guidelines.**
 
 - **Provide a link to the application or project’s homepage**. Unless it’s
   extremely popular, there’s a chance the maintainers don’t know about or use
@@ -91,8 +91,8 @@ the more likely we’ll be to accept your contribution quickly.
 
 ## Versioned templates
 
-Some templates can change greatly between versions, and if you wish to contribute
-to this repository we need to follow this specific flow:
+> **Some templates can change greatly between versions, and if you wish to contribute
+to this repository, we need to follow this specific flow:**
 
 - the template at the root should be the current supported version
 - the template at the root should not have a version in the filename (i.e.
@@ -114,7 +114,7 @@ The rules in your specialized template should be specific to the framework or
 tool, and any additional templates should be mentioned in a comment in the
 header of the template.
 
-For example, this template might live at `community/DotNet/InforCRM.gitignore`:
+**For example**, this template might live at `community/DotNet/InforCRM.gitignore`:
 
 ```
 # gitignore template for InforCRM (formerly SalesLogix)
